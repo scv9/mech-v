@@ -1,0 +1,15 @@
+admin/config.php
+admin/config-dist.php
+
+config.php
+config-dist.php
+web.config
+php.ini
+
+/aspnet_client/
+/seocmspro2/
+/system/
+/temp/
+
+seocmspro2.zip
+deleted-files.zip
